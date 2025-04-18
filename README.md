@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m a passionate developer who loves creating, l
 
 - 🎓 Currently pursuing studies in **Information Technology**
 - 💻 Enthusiast in **Web Development**, **Python**, and **IoT Projects**
-- 📫 Reach me: [afiqnzmi@gmail.com](mailto:afiqnzmi@gmail.com) | [fiqtzq.com](https://fiqtzq.com)
+- 📫 Reach me: [afiqnzmi@gmail.com](mailto:afiqnzmi@gmail.com)
 - 🔗 GitHub: [@fiqnzmi](https://github.com/fiqnzmi)
 
 ---
